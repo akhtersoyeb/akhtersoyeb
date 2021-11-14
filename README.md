@@ -22,4 +22,6 @@ My name is **Sk Soyeb Akhter**, cyber security student & self-made programmer
 - [Practice React &lpar;1&rpar;: Emoji Site](https://sk-soyeb-akhter.medium.com/build-a-fun-responsive-emoji-site-with-react-js-tailwind-css-c52638e9bca9?source=rss-2031c928a537------2)
 - [Building GraphQL Article API with Django | Python 3](https://sk-soyeb-akhter.medium.com/building-graphql-article-api-with-django-python-3-4c0cae02075b?source=rss-2031c928a537------2)
 - [I Wish I Had Started With This Programming Language | My Journey of Programming](https://sk-soyeb-akhter.medium.com/i-wish-i-had-started-with-this-programming-language-my-journey-of-programming-dfc02f36b9b7?source=rss-2031c928a537------2)
+- [E-Commerce GraphQL API with Django | Python](https://sk-soyeb-akhter.medium.com/e-commerce-graphql-api-with-django-python-a9ef74fad4b?source=rss-2031c928a537------2)
+- [Django payment integration | Razorpay | Full Guide](https://sk-soyeb-akhter.medium.com/django-payment-integration-razorpay-full-guide-a13aa4d5b573?source=rss-2031c928a537------2)
 <!-- BLOG-POST-LIST:END -->
