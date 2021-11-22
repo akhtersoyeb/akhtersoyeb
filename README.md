@@ -17,6 +17,7 @@ My name is **Sk Soyeb Akhter**, cyber security student & self-made programmer
 <br></br>
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 Free Learning Sources For Programmers That Are Usually Not Known](https://sk-soyeb-akhter.medium.com/top-5-free-learning-sources-for-programmers-that-are-usually-not-known-2a716d6ff5d5?source=rss-2031c928a537------2)
 - [How to Set Up Social Media Authentication with the Django REST Framework](https://python.plainenglish.io/social-media-rest-authentication-so-easy-that-you-will-laugh-django-7bca6869f931?source=rss-2031c928a537------2)
 - [Practice React &lpar;1&rpar;: Emoji Site](https://sk-soyeb-akhter.medium.com/build-a-fun-responsive-emoji-site-with-react-js-tailwind-css-c52638e9bca9?source=rss-2031c928a537------2)
 - [Building GraphQL Article API with Django | Python 3](https://sk-soyeb-akhter.medium.com/building-graphql-article-api-with-django-python-3-4c0cae02075b?source=rss-2031c928a537------2)
