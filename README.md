@@ -17,7 +17,6 @@ My name is **Sk Soyeb Akhter**, cyber security student & self-made programmer
 <br></br>
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [We are Social Animals. Social Media is Making Us Reptiles](https://sk-soyeb-akhter.medium.com/we-are-social-animals-social-media-is-making-us-reptiles-3e966fc54c43?source=rss-2031c928a537------2)
 - [How I Messed Up Freelance Order of 350$](https://sk-soyeb-akhter.medium.com/how-i-messed-up-freelance-order-of-350-4c835e6329c5?source=rss-2031c928a537------2)
 - [Top 5 Free Learning Sources For Programmers That Are Usually Not Known](https://sk-soyeb-akhter.medium.com/top-5-free-learning-sources-for-programmers-that-are-usually-not-known-2a716d6ff5d5?source=rss-2031c928a537------2)
 - [How to Set Up Social Media Authentication with the Django REST Framework](https://python.plainenglish.io/social-media-rest-authentication-so-easy-that-you-will-laugh-django-7bca6869f931?source=rss-2031c928a537------2)
