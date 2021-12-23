@@ -17,6 +17,7 @@ My name is **Sk Soyeb Akhter**, cyber security student & self-made programmer
 <br></br>
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Setting Up Next.js with Tailwind CSS &amp; Typescript](https://sk-soyeb-akhter.medium.com/setting-up-next-js-with-tailwind-css-typescript-7a1109e00549?source=rss-2031c928a537------2)
 - [Setting Up Programming Environment for Linux Users](https://sk-soyeb-akhter.medium.com/setting-up-programming-environment-for-linux-users-73c5049b424?source=rss-2031c928a537------2)
 - [Awesome JavaScript Packages for React Development| Top 5 | Node.js](https://sk-soyeb-akhter.medium.com/awesome-javascript-packages-for-react-development-top-5-node-js-481ca459caa5?source=rss-2031c928a537------2)
 - [3 Simple Steps To Write Beautiful &amp; Better Code](https://sk-soyeb-akhter.medium.com/3-simple-steps-to-write-beautiful-better-code-b180b34c1543?source=rss-2031c928a537------2)
@@ -26,5 +27,4 @@ My name is **Sk Soyeb Akhter**, cyber security student & self-made programmer
 - [Practice React &lpar;1&rpar;: Emoji Site](https://sk-soyeb-akhter.medium.com/build-a-fun-responsive-emoji-site-with-react-js-tailwind-css-c52638e9bca9?source=rss-2031c928a537------2)
 - [Building GraphQL Article API with Django | Python 3](https://sk-soyeb-akhter.medium.com/building-graphql-article-api-with-django-python-3-4c0cae02075b?source=rss-2031c928a537------2)
 - [I Wish I Had Started With This Programming Language | My Journey of Programming](https://sk-soyeb-akhter.medium.com/i-wish-i-had-started-with-this-programming-language-my-journey-of-programming-dfc02f36b9b7?source=rss-2031c928a537------2)
-- [E-Commerce GraphQL API with Django | Python](https://sk-soyeb-akhter.medium.com/e-commerce-graphql-api-with-django-python-a9ef74fad4b?source=rss-2031c928a537------2)
 <!-- BLOG-POST-LIST:END -->
