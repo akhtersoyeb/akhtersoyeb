@@ -17,6 +17,7 @@ My name is **Sk Soyeb Akhter**, cyber security student & self-made programmer
 <br></br>
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Technologies that will drastically change the future life](https://sk-soyeb-akhter.medium.com/technologies-that-will-drastically-change-the-future-life-afe82de1a13c?source=rss-2031c928a537------2)
 - [Top 5 Free Sources to Learn &amp; Practice Go Language](https://sk-soyeb-akhter.medium.com/top-5-free-sources-to-learn-practice-go-language-ac3b762ddbf9?source=rss-2031c928a537------2)
 - [Setting Up Next.js with Tailwind CSS &amp; Typescript](https://sk-soyeb-akhter.medium.com/setting-up-next-js-with-tailwind-css-typescript-7a1109e00549?source=rss-2031c928a537------2)
 - [Setting Up Programming Environment for Linux Users](https://sk-soyeb-akhter.medium.com/setting-up-programming-environment-for-linux-users-73c5049b424?source=rss-2031c928a537------2)
@@ -26,5 +27,4 @@ My name is **Sk Soyeb Akhter**, cyber security student & self-made programmer
 - [Top 5 Free Learning Sources For Programmers That Are Usually Not Known](https://sk-soyeb-akhter.medium.com/top-5-free-learning-sources-for-programmers-that-are-usually-not-known-2a716d6ff5d5?source=rss-2031c928a537------2)
 - [How to Set Up Social Media Authentication with the Django REST Framework](https://python.plainenglish.io/social-media-rest-authentication-so-easy-that-you-will-laugh-django-7bca6869f931?source=rss-2031c928a537------2)
 - [Practice React &lpar;1&rpar;: Emoji Site](https://sk-soyeb-akhter.medium.com/build-a-fun-responsive-emoji-site-with-react-js-tailwind-css-c52638e9bca9?source=rss-2031c928a537------2)
-- [Building GraphQL Article API with Django | Python 3](https://sk-soyeb-akhter.medium.com/building-graphql-article-api-with-django-python-3-4c0cae02075b?source=rss-2031c928a537------2)
 <!-- BLOG-POST-LIST:END -->
