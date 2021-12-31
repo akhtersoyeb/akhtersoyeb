@@ -17,6 +17,7 @@ My name is **Sk Soyeb Akhter**, cyber security student & self-made programmer
 <br></br>
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 Free Certificate Courses For Programmers To Find Job | 2022](https://sk-soyeb-akhter.medium.com/top-5-free-certificate-courses-for-programmers-to-find-job-2022-5589bc367c2d?source=rss-2031c928a537------2)
 - [Technologies that will drastically change the future life](https://sk-soyeb-akhter.medium.com/technologies-that-will-drastically-change-the-future-life-afe82de1a13c?source=rss-2031c928a537------2)
 - [Top 5 Free Sources to Learn &amp; Practice Go Language](https://sk-soyeb-akhter.medium.com/top-5-free-sources-to-learn-practice-go-language-ac3b762ddbf9?source=rss-2031c928a537------2)
 - [Setting Up Next.js with Tailwind CSS &amp; Typescript](https://sk-soyeb-akhter.medium.com/setting-up-next-js-with-tailwind-css-typescript-7a1109e00549?source=rss-2031c928a537------2)
@@ -26,5 +27,4 @@ My name is **Sk Soyeb Akhter**, cyber security student & self-made programmer
 - [How I Messed Up Freelance Order of 350$](https://sk-soyeb-akhter.medium.com/how-i-messed-up-freelance-order-of-350-4c835e6329c5?source=rss-2031c928a537------2)
 - [Top 5 Free Learning Sources For Programmers That Are Usually Not Known](https://sk-soyeb-akhter.medium.com/top-5-free-learning-sources-for-programmers-that-are-usually-not-known-2a716d6ff5d5?source=rss-2031c928a537------2)
 - [How to Set Up Social Media Authentication with the Django REST Framework](https://python.plainenglish.io/social-media-rest-authentication-so-easy-that-you-will-laugh-django-7bca6869f931?source=rss-2031c928a537------2)
-- [Practice React &lpar;1&rpar;: Emoji Site](https://sk-soyeb-akhter.medium.com/build-a-fun-responsive-emoji-site-with-react-js-tailwind-css-c52638e9bca9?source=rss-2031c928a537------2)
 <!-- BLOG-POST-LIST:END -->
