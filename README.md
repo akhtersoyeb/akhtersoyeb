@@ -17,14 +17,14 @@ My name is **Sk Soyeb Akhter**, cyber security student & self-made programmer
 <br></br>
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Free No-Code Tools for Entrepreneurs &amp; SaaS Developers](https://sk-soyeb-akhter.medium.com/free-no-code-tools-for-entrepreneurs-saas-developers-74b078cb0de0?source=rss-2031c928a537------2)
-- [Ways of Making Money for Introvert Developers &amp; Designers](https://sk-soyeb-akhter.medium.com/ways-of-making-money-for-introvert-developers-designers-923a081193ed?source=rss-2031c928a537------2)
-- [WooCommerce VS Shopify | The E-Commerce Battle | 2022](https://sk-soyeb-akhter.medium.com/woocommerce-vs-shopify-the-e-commerce-battle-2022-3efadb6dbe2a?source=rss-2031c928a537------2)
-- [Top 2 Profitable Passive Income Streams To Start For Free Online](https://sk-soyeb-akhter.medium.com/top-2-profitable-passive-income-streams-to-start-for-free-online-cc8c245a244?source=rss-2031c928a537------2)
-- [Top 5 Free Certificate Courses For Programmers To Find Job | 2022](https://sk-soyeb-akhter.medium.com/top-5-free-certificate-courses-for-programmers-to-find-job-2022-5589bc367c2d?source=rss-2031c928a537------2)
-- [Technologies that will drastically change the future life](https://sk-soyeb-akhter.medium.com/technologies-that-will-drastically-change-the-future-life-afe82de1a13c?source=rss-2031c928a537------2)
-- [Top 5 Free Sources to Learn &amp; Practice Go Language](https://sk-soyeb-akhter.medium.com/top-5-free-sources-to-learn-practice-go-language-ac3b762ddbf9?source=rss-2031c928a537------2)
-- [Setting Up Next.js with Tailwind CSS &amp; Typescript](https://sk-soyeb-akhter.medium.com/setting-up-next-js-with-tailwind-css-typescript-7a1109e00549?source=rss-2031c928a537------2)
-- [Setting Up Programming Environment for Linux Users](https://sk-soyeb-akhter.medium.com/setting-up-programming-environment-for-linux-users-73c5049b424?source=rss-2031c928a537------2)
-- [Awesome JavaScript Packages for React Development| Top 5 | Node.js](https://sk-soyeb-akhter.medium.com/awesome-javascript-packages-for-react-development-top-5-node-js-481ca459caa5?source=rss-2031c928a537------2)
+- [Angular or React?](https://sk-soyeb-akhter.medium.com/angular-or-react-5eb27064510f?source=rss-2031c928a537------2)
+- [Hey, You! Should You Start With Rust Programming Language?](https://sk-soyeb-akhter.medium.com/hey-you-should-you-start-with-rust-programming-language-95802b276352?source=rss-2031c928a537------2)
+- [Productivity Tips For Startup Founders](https://sk-soyeb-akhter.medium.com/productivity-tips-for-startup-founders-4e6afa3882e7?source=rss-2031c928a537------2)
+- [Is Coding Going To Die  Because Of No-Code Tools](https://sk-soyeb-akhter.medium.com/is-coding-going-to-die-because-of-no-code-tools-d074fb24634e?source=rss-2031c928a537------2)
+- [JavaScript Developer ? What You Should Do Next](https://sk-soyeb-akhter.medium.com/javascript-developer-what-you-should-do-next-c3c1b6b4b8e7?source=rss-2031c928a537------2)
+- [Want To Be A Full-Stack Web Developer ? Your Best Option 2022](https://sk-soyeb-akhter.medium.com/want-to-be-a-full-stack-web-developer-your-best-option-2022-631975c36f2?source=rss-2031c928a537------2)
+- [Git &amp; Github Guide for Absolute Beginners](https://sk-soyeb-akhter.medium.com/git-github-guide-for-absolute-beginners-e1803c89bf7d?source=rss-2031c928a537------2)
+- [Python Programmer ? What You Should Do Next](https://sk-soyeb-akhter.medium.com/python-programmer-what-you-should-do-next-de7fbc65a9a9?source=rss-2031c928a537------2)
+- [Make your first AR app | Unity](https://sk-soyeb-akhter.medium.com/make-your-first-ar-app-unity-ca40b874017?source=rss-2031c928a537------2)
+- [Quotes from Attitude is Everything Book | Motivate yourself.](https://sk-soyeb-akhter.medium.com/quotes-from-attitude-is-everything-book-motivate-yourself-b505a8eaf2a2?source=rss-2031c928a537------2)
 <!-- BLOG-POST-LIST:END -->
