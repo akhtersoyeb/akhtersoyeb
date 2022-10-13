@@ -17,6 +17,7 @@ My name is **Sk Soyeb Akhter**, cyber security student & self-made programmer
 <br></br>
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Youtube or Docs • How Should You Learn Programming?](https://sk-soyeb-akhter.medium.com/youtube-or-docs-how-should-you-learn-programming-2c102ed346b3?source=rss-2031c928a537------2)
 - [Angular or React?](https://sk-soyeb-akhter.medium.com/angular-or-react-5eb27064510f?source=rss-2031c928a537------2)
 - [Hey, You! Should You Start With Rust Programming Language?](https://sk-soyeb-akhter.medium.com/hey-you-should-you-start-with-rust-programming-language-95802b276352?source=rss-2031c928a537------2)
 - [Productivity Tips For Startup Founders](https://sk-soyeb-akhter.medium.com/productivity-tips-for-startup-founders-4e6afa3882e7?source=rss-2031c928a537------2)
@@ -26,5 +27,4 @@ My name is **Sk Soyeb Akhter**, cyber security student & self-made programmer
 - [Git &amp; Github Guide for Absolute Beginners](https://sk-soyeb-akhter.medium.com/git-github-guide-for-absolute-beginners-e1803c89bf7d?source=rss-2031c928a537------2)
 - [Python Programmer ? What You Should Do Next](https://sk-soyeb-akhter.medium.com/python-programmer-what-you-should-do-next-de7fbc65a9a9?source=rss-2031c928a537------2)
 - [Make your first AR app | Unity](https://sk-soyeb-akhter.medium.com/make-your-first-ar-app-unity-ca40b874017?source=rss-2031c928a537------2)
-- [Quotes from Attitude is Everything Book | Motivate yourself.](https://sk-soyeb-akhter.medium.com/quotes-from-attitude-is-everything-book-motivate-yourself-b505a8eaf2a2?source=rss-2031c928a537------2)
 <!-- BLOG-POST-LIST:END -->
