@@ -17,14 +17,14 @@ My name is **Sk Soyeb Akhter**, cyber security student & self-made programmer
 <br></br>
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Essential Skills Every Backend Developer Should Know](https://sk-soyeb-akhter.medium.com/essential-skills-every-backend-developer-should-know-fa31509ba4eb?source=rss-2031c928a537------2)
+- [Future of Programming Looks Like This](https://sk-soyeb-akhter.medium.com/future-of-programming-looks-like-this-cff54e3e57f6?source=rss-2031c928a537------2)
+- [Rap Battle between Python and Rust](https://sk-soyeb-akhter.medium.com/rap-battle-between-python-and-rust-fb891d03cdba?source=rss-2031c928a537------2)
+- [5 Points on How to Get a Job as Frontend Developer](https://sk-soyeb-akhter.medium.com/5-points-on-how-to-get-a-job-as-frontend-developer-307adcc76059?source=rss-2031c928a537------2)
 - [Youtube or Docs • How Should You Learn Programming?](https://sk-soyeb-akhter.medium.com/youtube-or-docs-how-should-you-learn-programming-2c102ed346b3?source=rss-2031c928a537------2)
 - [Angular or React?](https://sk-soyeb-akhter.medium.com/angular-or-react-5eb27064510f?source=rss-2031c928a537------2)
 - [Hey, You! Should You Start With Rust Programming Language?](https://sk-soyeb-akhter.medium.com/hey-you-should-you-start-with-rust-programming-language-95802b276352?source=rss-2031c928a537------2)
 - [Productivity Tips For Startup Founders](https://sk-soyeb-akhter.medium.com/productivity-tips-for-startup-founders-4e6afa3882e7?source=rss-2031c928a537------2)
 - [Is Coding Going To Die  Because Of No-Code Tools](https://sk-soyeb-akhter.medium.com/is-coding-going-to-die-because-of-no-code-tools-d074fb24634e?source=rss-2031c928a537------2)
 - [JavaScript Developer ? What You Should Do Next](https://sk-soyeb-akhter.medium.com/javascript-developer-what-you-should-do-next-c3c1b6b4b8e7?source=rss-2031c928a537------2)
-- [Want To Be A Full-Stack Web Developer ? Your Best Option 2022](https://sk-soyeb-akhter.medium.com/want-to-be-a-full-stack-web-developer-your-best-option-2022-631975c36f2?source=rss-2031c928a537------2)
-- [Git &amp; Github Guide for Absolute Beginners](https://sk-soyeb-akhter.medium.com/git-github-guide-for-absolute-beginners-e1803c89bf7d?source=rss-2031c928a537------2)
-- [Python Programmer ? What You Should Do Next](https://sk-soyeb-akhter.medium.com/python-programmer-what-you-should-do-next-de7fbc65a9a9?source=rss-2031c928a537------2)
-- [Make your first AR app | Unity](https://sk-soyeb-akhter.medium.com/make-your-first-ar-app-unity-ca40b874017?source=rss-2031c928a537------2)
 <!-- BLOG-POST-LIST:END -->
